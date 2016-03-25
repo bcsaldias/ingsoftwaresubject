@@ -1,0 +1,47 @@
+Quote UML Diagram Editor
+Crea, comparte y edita tus diagramas UML
+
+Quote UML Diagram Editor es una herramienta que permite traducir un XML en un diagrama de clases o un diagrama de casos de uso. El XML se puede escribir en el editor de texto incorporado o bien se puede cargar desde alguna carpeta en el ordenador.
+
+Crear nuevo XML:
+El editor de texto incorporado permite escribir un XML partiendo de cero. Este XML se representará como un diagrama siempre y cuando siga el formato estipulado (Ver sección formato XML). El XML escrito se puede guardar en algún directorio de su ordenador al haceer click en la opción "Save" del menú "File" en la barra de manú.
+
+Cargar XML:
+Si usted tiene guardado un documento XML en su ordenador, puede hacer click la opción "Load" en el menú "File" de la barra de Menú.
+
+Cargar Template:
+En la barra de menú está la opción "Template", en ella encontrará un template para partir un diagrama de clases y un diagrama de casos de uso.
+
+Generar diagrama:
+Para generar el diagrama de casos de uso se debe hacer click al botón "Play" que está en la esquina superior derecha. Si el XML es correcto, el diagrama será generado, sino, el programa señalará el error debido al que no está funcionando.
+
+Escoger tipo de diagrama:
+Para escogere en que tipo de diagrama trabajar (Casos de Uso o Diagrama de Clases) se debe hacer check en alguno de los dos tipos en una barra en la parte superior del programa.
+
+Formato del XML:
+El documento XML debe ser un XML bien formado (Es decir, tiene solamente una raíz, los paréntesis y comillas deben estar balanceados). Además, solamente es posible añadir ciertos "Tag" y ciertos valores para los atributos del XML. Para cada uno de los tipos posibles de diagrama, existe una barra que ayuda a generar cada uno de los nodos posibles. Al hacer click escribirá el nodo automáticamente.
+
+Tags válidos para Diagrama de Clases:
+ClassDiagram: Indica la raíz del documento.
+Class: Indica una clase.
+Attributes: Nodo que va contener a todos los nodos de tipo atributo (Serían los atributos de la clase).
+Attribute: Indica el atributo de una clase.
+Methods: Nodo que va a contener a todos los nodos de tipo método (Serían los métodos de la clase correspondiente).
+Method: Indica el método de una clase.
+Param: Está dentro de un nodo Method. Indica los parámetros del método.
+Connections: Guarda todas las conexiones posibles.
+Connection: Guarda los detalles de la conexión. Se pueden usar identificadores utilizados anteriormente.
+
+Tags válidos para Diagrama de Casos de Uso:
+UserCaseDiagram: Indica la raíz del documento.
+Actors: Tiene como hijos a nodos del tipo Actor.
+Actor: Señala a un actor.
+Usercases: Tiene como hijos a nodos del tipo Usercase.
+Usercase: Señala un caso de uso.
+Connections: Guarda a los nodos de tipo Connection.
+Connection: Indica la conexión entre los actores y los casos de uso.
+
+
+
+
+

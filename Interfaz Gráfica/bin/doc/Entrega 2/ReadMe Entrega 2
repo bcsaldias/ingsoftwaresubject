@@ -1,0 +1,20 @@
+Hay 2 carpetas,
+
+Una con la Interfaz Gr√°fica que corresponde al Frontend.
+Otra con el Parser, que correspondera a un package que
+importar√° el frontend. (Todav√≠a falta importarlo)
+
+Algunos comentarios:
+
+-Diagrama:
+Es tentativo, este todav√≠a puede cambiar a futuro.
+Se omitieron hartos metodos y atributos para que no quedar√° engorrosa 
+la imagen. (Y por sanidad mental)
+
+-Interfaz:
+Es una interfaz propuesta con funcionalidades b·sicas ya listas. Existen botones
+adicionales aun no programados pero que le dar·n m·s fluidÈz a la programaciÛn en XML.
+Para esta entrega principalmente nos basamos en lo que esperarÌa el usuario del funcionamiento
+b·sico del editor, para la prÛxima entrega se conectar· con el parser y se mostrar·n los errores.
+
+-Parser:

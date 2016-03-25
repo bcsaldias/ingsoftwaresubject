@@ -1,0 +1,22 @@
+Tareas de este sprint:
+-Generador de Diagramas.
+-Detector de errores por linea.
+-Funciones varias del editor.
+
+########################
+
+Tareas Terminadas:
+-Detector de Errores de formato.
+-Parser de XML.
+-Crear desde Template.
+-Detector de errores por linea
+-Editor de texto
+-Interfaz Gráfica
+-Carga y guardado de archivos
+
+Tareas en progreso:
+-Generador de Diagramas, mejorar optimalidad del dibujo.
+
+
+Tareas Faltantes:
+-Editor en tiempo real de Diagrama.

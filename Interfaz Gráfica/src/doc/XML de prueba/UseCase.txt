@@ -1,0 +1,24 @@
+<UseCaseDiagram name="Content Management System">
+	<actors>
+		<actor type="primary" id="a1" name="Administrator"/>
+		<actor type="secondary" id="a2" name="Author Credentials Database"/>
+	</actors>
+	<usecases>
+		<usecase id="uc1" name="Create a New Personal Wiki"/>
+		<usecase id="uc2" name="Create a New Blog Account"/>
+		<usecase id="uc3" name="Record Application Failure"/>
+		<usecase id="uc4" name="Check Identity"/>
+		<usecase id="uc5" name="Create a New Regular Blog Account"/>
+		<usecase id="uc6" name="Create a New Editorial Blog Account"/>
+	</usecases>
+	<connections>
+		<connection type="basic" from="a1" to="uc1"/>
+		<connection type="basic" from="a1" to="uc2"/>
+		<connection type="basic" from="a2" to="uc4"/>
+		<connection type="extend" from="uc3" to="uc1"/>
+		<connection type="include" from="uc1" to="uc4"/>
+		<connection type="include" from="uc2" to="uc4"/>
+		<connection type="isa" from="uc5" to="uc2"/>
+		<connection type="isa" from="uc6" to="uc2"/>
+	</connections>
+</UseCaseDiagram>

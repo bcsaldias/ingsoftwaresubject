@@ -1,0 +1,20 @@
+Tareas de este sprint:
+-Interfaz gráfica base más editor de texto.
+-Parser XML junto a sus Test.
+-Diagrama de clases tentativo.
+
+########################
+
+Tareas Terminadas:
+-Detector de Errores de Formato.
+-Parser de XML.
+-Crear desde Template.
+
+Tareas en progreso:
+-Editor de Texto. (80%, faltan pequeñas funcionalidades)
+-Interfaz Gráfica, está la base. Falta implementar funcionalidades y el visor.
+
+Tareas Faltantes:
+-Generador de Imagen Png.
+-Guardar y cargar archivos.
+-Editor de Diagrama.

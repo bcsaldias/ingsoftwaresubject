@@ -1,0 +1,154 @@
+<BODY LANG="es-CL" DIR="LTR">
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US"><B>Documentation
+v1.2</B></SPAN></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><FONT SIZE=3><SPAN LANG="en-US"><U>How
+to create a Diagram from a file:</U></SPAN></FONT></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">There
+are multiple ways to create an image: </SPAN>
+</P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">From
+	an already created xml file:  Go to File&gt;Open XML. And select
+	your archive. </SPAN>
+	</P>
+</UL>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-left: 0.5in; margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Creating
+	a new XML file. Go to File&gt;Create XML.  Then you can use the
+	editor to create it. </SPAN>
+	</P>
+</UL>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">From
+	a template. Go to Template and select one of the examples XML</SPAN></P>
+</UL>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">After
+that, click the play button on the top-right corner to generate the
+image.</SPAN></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><FONT SIZE=3><SPAN LANG="en-US"><U>How
+to edit an XML:</U></SPAN></FONT></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">To
+edit the XML you have access to multiple tabs, in each one of these
+there are different options to make easier the creation. </SPAN>
+</P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><FONT SIZE=3><SPAN LANG="en-US"><U>Error
+detection:</U></SPAN></FONT></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><A NAME="_GoBack"></A>
+<SPAN LANG="en-US">If the format of the XML is not correct, in the
+left side of the editor after you click the play button, the line
+with the error will be marked with red.</SPAN></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><FONT SIZE=3><SPAN LANG="en-US"><U>Specifications
+of the diagrams connections:</U></SPAN></FONT></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US"><I><U><B>Class
+Diagram</B></U></I></SPAN></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Connections
+	Types</SPAN></P>
+</UL>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="text-indent: 0.49in; margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<UL>
+	<UL>
+		<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Dependency</SPAN></P>
+	</UL>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 1.48in; margin-bottom: 0in; line-height: 100%">
+<SPAN LANG="en-US">When objects of one class work briefly with
+objects of another class</SPAN></P>
+<UL>
+	<UL>
+		<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Association</SPAN></P>
+	</UL>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 1.48in; margin-bottom: 0in; line-height: 100%">
+<SPAN LANG="en-US">When objects of one class work with objects of
+another class for some prolonged amount of time</SPAN></P>
+<UL>
+	<UL>
+		<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Aggregation</SPAN></P>
+	</UL>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 1.48in; margin-bottom: 0in; line-height: 100%">
+<SPAN LANG="en-US">When one class owns but shares a reference to
+objects of another class</SPAN></P>
+<UL>
+	<UL>
+		<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Composition</SPAN></P>
+	</UL>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 1.48in; margin-bottom: 0in; line-height: 100%">
+<SPAN LANG="en-US">When one class contains objects of another class</SPAN></P>
+<UL>
+	<UL>
+		<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Inheritance</SPAN></P>
+	</UL>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 1.48in; margin-bottom: 0in; line-height: 100%">
+<SPAN LANG="en-US">When one class is a type of another class</SPAN></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US"><I><U><B>User
+Case Diagram</B></U></I></SPAN></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Connections
+	Types</SPAN></P>
+</UL>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="text-indent: 0.49in; margin-bottom: 0in; line-height: 100%">
+<BR>
+</P>
+<UL>
+	<UL>
+		<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Extend</SPAN></P>
+		<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">Include</SPAN></P>
+		<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 100%"><SPAN LANG="en-US">IsA</SPAN></P>
+	</UL>
+</UL>
+</BODY>
+</HTML>

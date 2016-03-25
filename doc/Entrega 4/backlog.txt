@@ -1,0 +1,24 @@
+Tareas de este sprint:
+-Drag and drop del diagrama.
+-Tener en cuenta los comentarios en un XML.
+-Posibilidad de agregar comentarios al diagrama.
+-Algunos arreglos de errores y mejoras en la interfaz.
+
+########################
+Tareas Terminadas:
+(Todo listo!)
+-Detector de Errores de formato.
+-Parser de XML.
+-Crear desde Template.
+-Detector de errores por linea
+-Editor de texto
+-Interfaz Gráfica
+-Carga y guardado de archivos
+-Editor en tiempo real de Diagrama.
+
+Tareas en progreso:
+:D
+
+
+Tareas Faltantes:
+:D
